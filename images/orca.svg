@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 104" role="img" aria-labelledby="title">
+  <title id="title">ORCA</title>
+  <path fill="#315d9f" d="M17 55C19 38 42 27 66 29L83 10C89 15 90 26 88 33C108 37 122 48 134 63C143 58 151 57 157 61C153 69 147 72 142 72C145 78 145 86 140 92C134 85 132 78 133 72C116 72 109 69 98 64C89 66 81 64 73 63C69 74 58 80 54 77L57 62C39 64 24 62 17 55Z"/>
+  <path fill="#fff" d="M19 53C28 53 34 55 42 55C49 56 53 53 56 49C61 55 69 57 77 57C88 58 96 60 104 64C88 68 75 64 64 60C45 63 29 61 19 55Z"/>
+  <ellipse fill="#fff" cx="42" cy="41" rx="10" ry="4.7" transform="rotate(-18 42 41)"/>
+  <circle fill="#182f53" cx="25" cy="48" r="1.8"/>
+  <path fill="none" stroke="#a9c6eb" stroke-width="3" stroke-linecap="round" d="M13 76C24 72 34 72 43 75M87 84C100 81 111 83 119 87"/>
+</svg>
